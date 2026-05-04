@@ -2,7 +2,7 @@
 
 ระบบ Dashboard แสดงข้อมูลเกมจาก Steam แบบ Real-time พัฒนาด้วย Python (FastAPI) และ React (TypeScript) พร้อมระบบดึงข้อมูลอัตโนมัติด้วย Apache Airflow
 
-## รูปภาพDiagram
+## รูปภาพ Diagram
 ![Steam Dashboard System Architecture](assets/Diagram.png)
 
 ## คุณสมบัติหลัก (Features)
